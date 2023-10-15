@@ -6,6 +6,14 @@ Hey there! I'm delighted to have you visit my GitHub profile. I'm a highly skill
 
 I hold a Certificate of Secondary Education in Computer Science and a Bachelor's Degree in Computer Science. These academic achievements, coupled with my practical experience, have equipped me with a deep understanding of HTML, CSS, Python, Django, JavaScript, and React.js.
 
+## Languages and Technologies
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=Django&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=black)
+
 ## Professional Experience
 
 *Frontend Developer at DataSite Technology:* During my time at DataSite Technology, I played a crucial role in web development projects. My contributions received recognition from the professional community for their exceptional layout design and error-fixing capabilities.
