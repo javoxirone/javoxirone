@@ -32,11 +32,11 @@ Beyond my professional engagements, I've undertaken personal projects to showcas
 
 📫 Feel free to reach out: [javoxirone@gmail.com](mailto:javoxirone@gmail.com)
 
-🔗 Connect with me on LinkedIn: [javohir-nurmatjonov](https://www.linkedin.com/in/javohir-nurmatjonov)
+🔗 Connect with me on LinkedIn: [link](https://www.linkedin.com/in/javohir-nurmatjonov)
 
-📷 Take a peek at my projects on Instagram: [@javoxirone](https://www.instagram.com/javoxirone)
+📷 Take a peek at my projects on Instagram: [link](https://www.instagram.com/javoxirone)
 
-👨‍💻 Dive into my code on GitHub: [javoxirone](https://github.com/javoxirone)
+👨‍💻 Dive into my code on GitHub: [link](https://github.com/javoxirone)
 
 ## Let's Collaborate!
 
