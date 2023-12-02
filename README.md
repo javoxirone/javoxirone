@@ -13,7 +13,7 @@ I hold a Certificate of Secondary Education in Computer Science and a Bachelor's
 
 ## Connect with Me
 
-🌐 Check out my website: [javoxirone.netlify.app](https://javoxirone.netlify.app)
+🌐 Check out my website: [nurmatjonov.uz](https://nurmatjonov.uz)
 
 📫 Feel free to reach out: [javoxirone@gmail.com](mailto:javoxirone@gmail.com)
 
