@@ -19,7 +19,7 @@ I hold a Certificate of Secondary Education in Computer Science and a Bachelor's
 
 🔗 Connect with me on LinkedIn (learn more about my professional experience): [link](https://www.linkedin.com/in/javohir-nurmatjonov)
 
-📷 Take a peek at my projects on Instagram: [link](https://www.instagram.com/javoxirone)
+📷 My instagram: [link](https://www.instagram.com/javoxirone)
 
 👨‍💻 Dive into my code on GitHub: [link](https://github.com/javoxirone)
 
