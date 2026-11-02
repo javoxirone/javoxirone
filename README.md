@@ -1,6 +1,6 @@
-<img src="assets/hero.svg" alt="Javohir Nurmatjonov — Python Backend Engineer. Systems that stay up. Intelligence that earns its place. Tashkent, Uzbekistan. Computer Science at Webster University." width="100%">
+<img src="assets/header.svg" alt="Javohir Nurmatjonov — Python Backend Engineer. Systems that stay up. Intelligence that earns its place. Tashkent, Uzbekistan. Computer Science at Webster University." width="100%">
 
-<img src="assets/terminal.svg" alt="Terminal: whoami — Python Backend Engineer building production systems. current_focus — Backend architecture, PostgreSQL, AI engineering. current_roles — Smart Line Solutions Corp and Techna." width="100%">
+<img src="assets/intro.svg" alt="Terminal: whoami — Python Backend Engineer building production systems. current_focus — Backend architecture, PostgreSQL, AI engineering. current_roles — Smart Line Solutions Corp and Techna." width="100%">
 
 <img src="assets/exp-smart-line.svg" alt="Smart Line Solutions Corp / DaisyAI, Backend Engineer, 2026 to present. AI-powered personal productivity and life-balance platform. Designing the backend architecture and defining the technical MVP scope. Building REST APIs with Django and Django REST Framework. Implementing asynchronous processing with Celery and Redis. Working on integrations with external health and calendar platforms. Taking part in architecture and technical decisions and release planning, alongside a Flutter developer. Stack: Python, Django 5, Django REST Framework, PostgreSQL, Redis, Celery, AWS, Firebase." width="100%">
 
