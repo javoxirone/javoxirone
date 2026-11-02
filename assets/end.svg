@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="64" viewBox="0 0 1000 64" role="img" aria-labelledby="t d" fill="none"><title id="t">End of profile</title><desc id="d">Closing terminal prompt</desc><style>
+.m{font-family:'JetBrains Mono','SF Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono','Liberation Mono',monospace}
+.s{font-family:Inter,'Helvetica Neue',Helvetica,Arial,'Liberation Sans','DejaVu Sans',sans-serif}
+@keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.3}}
+@keyframes flow{to{stroke-dashoffset:-20}}
+@keyframes in{from{opacity:0;transform:translateX(-8px)}}
+.blink{animation:blink 1.1s steps(1) infinite}
+.pulse{animation:pulse 2s ease-in-out infinite}
+.flow{stroke-dasharray:4 6;animation:flow 1.1s linear infinite}
+.in{animation:in .5s ease-out backwards}
+@media (prefers-reduced-motion:reduce){.blink,.pulse,.flow,.in{animation:none}}
+</style><rect x=".5" y=".5" width="999" height="63" rx="12" fill="#06090A" stroke="#1B2624"/><text x="28" y="39" class="m" font-size="18"><tspan fill="#3DFFA8">javoxirone@tashkent</tspan><tspan fill="#46544F">:</tspan><tspan fill="#E8F0EC">~</tspan><tspan fill="#46544F">$</tspan></text><rect x="276" y="21" width="11" height="22" fill="#3DFFA8" class="blink"/></svg>
