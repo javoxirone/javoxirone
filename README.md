@@ -3,7 +3,6 @@
 </div>
 
 <p align="center">
-  <a href="https://nurmatjonov.uz">nurmatjonov.uz</a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/javohir-nurmatjonov">LinkedIn</a> &nbsp;·&nbsp;
   <a href="https://t.me/javoxirone">Telegram</a> &nbsp;·&nbsp;
   <a href="mailto:javoxirone@gmail.com">javoxirone@gmail.com</a>
@@ -80,7 +79,6 @@
 <img src="assets/section-contact.svg" alt="04 Contact" width="100%">
 
 <p>
-  <a href="https://nurmatjonov.uz"><img src="assets/btn-web.svg" alt="Website: nurmatjonov.uz" height="64"></a>
   <a href="https://www.linkedin.com/in/javohir-nurmatjonov"><img src="assets/btn-linkedin.svg" alt="LinkedIn: javohir-nurmatjonov" height="64"></a>
   <a href="https://t.me/javoxirone"><img src="assets/btn-telegram.svg" alt="Telegram: @javoxirone" height="64"></a>
   <a href="mailto:javoxirone@gmail.com"><img src="assets/btn-email.svg" alt="Email: javoxirone@gmail.com" height="64"></a>

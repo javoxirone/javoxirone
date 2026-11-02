@@ -235,7 +235,6 @@ def main() -> None:
     write("exp-smart-aurum.svg", experience("01", "Smart Aurum", "DaisyAI", "Backend Engineer / Team Lead", "2026 — PRESENT"))
     write("exp-techna.svg", experience("02", "Techna", None, "Python Backend Engineer", "2026 — PRESENT"))
     write("toolkit.svg", toolkit())
-    write("btn-web.svg", button("Website", "nurmatjonov.uz", 200))
     write("btn-linkedin.svg", button("LinkedIn", "javohir-nurmatjonov", 250))
     write("btn-telegram.svg", button("Telegram", "@javoxirone", 170))
     write("btn-email.svg", button("Email", "javoxirone@gmail.com", 270))
